@@ -2,10 +2,10 @@
 
 I'm a web developer based in Philippines who is passionate about everything related to technology. When I'm not coding, you can find me exploring new places, playing sports, playing with my adorable dog (Gabbi!) or reading developer blogs.
 
-## About Me
+<!-- ## About Me
 - Location: Cebu, Philippines
 - Industry Experience: 6+ years
-- Education: Bachelor of Science in Information Technology
+- Education: Bachelor of Science in Information Technology -->
 
 ## Skills
 
