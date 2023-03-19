@@ -35,3 +35,5 @@ I'm a web developer based in Philippines who is passionate about everything rela
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/raielly)
 [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://github.com/raielly)
 
+![](https://github.com/raielly/?username=raielly&label=views)
+
