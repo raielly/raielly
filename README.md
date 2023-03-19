@@ -1,4 +1,4 @@
-# Hi there! 🙌
+# Hi there! 🙌                                                        ![](https://komarev.com/ghpvc/?username=raielly&style=flat-square&color=blueviolet&label=views)
 
 I'm a web developer based in Philippines who is passionate about everything related to technology. When I'm not coding, you can find me exploring new places, playing sports, playing with my adorable dog (Gabbi!) or reading developer blogs.
 
@@ -35,6 +35,5 @@ I'm a web developer based in Philippines who is passionate about everything rela
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/raielly)
 [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://github.com/raielly)
 
-![](https://komarev.com/ghpvc/?username=raielly&style=flat-square&color=blueviolet&label=views)
-![Profile views](https://gpvc.arturio.dev/raielly)
+
 
