@@ -36,4 +36,5 @@ I'm a web developer based in Philippines who is passionate about everything rela
 [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://github.com/raielly)
 
 ![](https://komarev.com/ghpvc/?username=raielly&style=flat-square&color=blueviolet&label=views)
+![Profile views](https://gpvc.arturio.dev/raielly)
 
