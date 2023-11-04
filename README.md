@@ -20,6 +20,7 @@ I'm a web developer based in Philippines who is passionate about everything rela
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/raielly)
 [![Nuxt.js](https://img.shields.io/badge/nuxt.js-35495E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://github.com/raielly)
 [![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=white)](https://github.com/raielly)
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/raielly)
 
 #### Front-End UI Components
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)](https://github.com/raielly)
