@@ -1,6 +1,6 @@
 # 👋 Hello! 
 
-I'm a web developer based in Philippines who is passionate about everything related to technology. When I'm not coding, you can find me exploring new places, playing sports, playing with my adorable dogs and reading developer blogs.
+I'm a web developer based in Philippines who is passionate about everything related to technology. When I'm not coding, you can find me exploring new places, playing sports, watching movies and reading developer blogs.
 
 <!-- ## About Me
 - Location: Cebu, Philippines
